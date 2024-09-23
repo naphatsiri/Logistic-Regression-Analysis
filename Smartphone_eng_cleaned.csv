@@ -1,0 +1,70 @@
+﻿Gender,Age,Occupation,Salary,OperationSystem,Game,Socialmedia,Entertainment,Photo/Video,Brands
+Female,21-25 yrs,Private_Sector,"40,001-50,000 Baht",IOS,Often,Most often,Moderate,Quite little,Iphone
+Male,26-30 yrs,Private_Sector,"30,001-40,000 Baht",IOS,Moderate,Most often,Moderate,Moderate,Iphone
+Male,31-35 yrs,Private_Sector,"40,001-50,000 Baht",IOS,Least,Moderate,Moderate,Least,Iphone
+Male,21-25 yrs,Private_Sector,"30,001-40,000 Baht",IOS,Least,Moderate,Moderate,Least,Iphone
+Male,21-25 yrs,Unemploy,"Less than 20,000 Baht",IOS,Moderate,Often,Quite little,Quite little,Iphone
+Female,21-25 yrs,Private_Sector,"30,001-40,000 Baht",IOS,Least,Most often,Most often,Often,Iphone
+Female,21-25 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Least,Most often,Moderate,Often,Iphone
+Male,21-25 yrs,Private_Sector,"40,001-50,000 Baht",IOS,Least,Most often,Most often,Moderate,Iphone
+Female,31-35 yrs,Private_Sector,"30,001-40,000 Baht",Android,Often,Most often,Often,Often,Samsung
+Female,21-25 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Moderate,Often,Often,Moderate,Iphone
+Male,26-30 yrs,Private_Sector,"40,001-50,000 Baht",IOS,Most often,Most often,Often,Moderate,Iphone
+Female,26-30 yrs,College_Student,"Less than 20,000 Baht",IOS,Quite little,Most often,Often,Often,Iphone
+Male,26-30 yrs,Private_Sector,"More than 60,000 Baht",IOS,Often,Most often,Moderate,Least,Iphone
+Female,26-30 yrs,Private_Sector,"30,001-40,000 Baht",IOS,Least,Most often,Most often,Most often,Iphone
+Male,26-30 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Often,Most often,Often,Moderate,Iphone
+Female,21-25 yrs,Private_Sector,"Less than 20,000 Baht",IOS,Least,Most often,Often,Often,Iphone
+Male,26-30 yrs,College_Student,"20,001-30,000 Baht",IOS,Least,Most often,Most often,Quite little,Oneplus
+Female,26-30 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Least,Most often,Often,Moderate,Iphone
+Female,36-40 yrs,Private_Sector,"40,001-50,000 Baht",IOS,Least,Most often,Often,Often,Iphone
+Male,31-35 yrs,State_Enterprise ,"40,001-50,000 Baht",IOS,Moderate,Most often,Often,Often,Iphone
+Male,36-40 yrs,Private_Sector,"More than 60,000 Baht",IOS,Least,Often,Most often,Often,Iphone
+Male,26-30 yrs,Private_Sector,"30,001-40,000 Baht",Android,Least,Moderate,Quite little,Often,Oneplus
+Female,31-35 yrs,Gov_Official,"20,001-30,000 Baht",IOS,Least,Often,Often,Often,Iphone
+Male,26-30 yrs,Private_Sector,"20,001-30,000 Baht",Android,Most often,Moderate,Often,Quite little,Iphone
+Male,31-35 yrs,Private_Sector,"50,001-60,000 Baht",Android,Moderate,Most often,Moderate,Least,Iphone
+Male,26-30 yrs,Gov_Official,"20,001-30,000 Baht",Android,Moderate,Quite little,Moderate,Least,Iphone
+Female,21-25 yrs,College_Student,"20,001-30,000 Baht",IOS,Least,Most often,Often,Often,Iphone
+Female,26-30 yrs,Unemploy,"20,001-30,000 Baht",IOS,Moderate,Often,Most often,Often,Iphone
+Male,26-30 yrs,Private_Sector,"40,001-50,000 Baht",IOS,Quite little,Often,Moderate,Quite little,Iphone
+Male,26-30 yrs,Private_Sector,"20,001-30,000 Baht",Android,Quite little,Often,Often,Often,Iphone
+Male,26-30 yrs,Private_Sector,"50,001-60,000 Baht",IOS,Least,Often,Often,Quite little,Iphone
+Male,21-25 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Quite little,Most often,Often,Moderate,Iphone
+Male,26-30 yrs,College_Student,"Less than 20,000 Baht",IOS,Often,Often,Often,Often,Iphone
+Female,36-40 yrs,Private_Sector,"50,001-60,000 Baht",IOS,Most often,Most often,Most often,Most often,Iphone
+Male,26-30 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Least,Often,Quite little,Least,Iphone
+Male,26-30 yrs,College_Student,"20,001-30,000 Baht",Android,Most often,Often,Moderate,Quite little,Samsung
+Female,26-30 yrs,Private_Sector,"50,001-60,000 Baht",IOS,Least,Often,Most often,Moderate,Iphone
+Female,26-30 yrs,Private_Sector,"More than 60,000 Baht",IOS,Least,Most often,Moderate,Moderate,Iphone
+Male,31-35 yrs,Private_Sector,"More than 60,000 Baht",IOS,Quite little,Most often,Often,Moderate,Samsung
+Female,26-30 yrs,Private_Sector,"20,001-30,000 Baht",Android,Moderate,Most often,Often,Most often,Samsung
+Female,26-30 yrs,Private_Sector,"30,001-40,000 Baht",IOS,Least,Most often,Often,Most often,Iphone
+Male,21-25 yrs,College_Student,"Less than 20,000 Baht",IOS,Quite little,Often,Moderate,Often,Iphone
+Female,21-25 yrs,Private_Sector,"30,001-40,000 Baht",IOS,Quite little,Often,Often,Quite little,Iphone
+Female,31-35 yrs,College_Student,"Less than 20,000 Baht",Android,Least,Quite little,Often,Often,Oppo
+Male,31-35 yrs,Private_Sector,"More than 60,000 Baht",IOS,Moderate,Often,Quite little,Quite little,Iphone
+Male,26-30 yrs,Private_Sector,"30,001-40,000 Baht",IOS,Quite little,Often,Often,Quite little,Iphone
+Male,26-30 yrs,College_Student,"Less than 20,000 Baht",IOS,Quite little,Most often,Least,Moderate,Iphone
+Female,21-25 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Moderate,Most often,Often,Often,Iphone
+Male,26-30 yrs,Private_Sector,"20,001-30,000 Baht",Android,Least,Least,Least,Least,Google
+Female,26-30 yrs,Private_Sector,"40,001-50,000 Baht",IOS,Least,Most often,Most often,Most often,Iphone
+Female,21-25 yrs,Private_Sector,"30,001-40,000 Baht",Android,Least,Most often,Quite little,Most often,Samsung
+Male,21-25 yrs,Gov_Official,"20,001-30,000 Baht",IOS,Often,Most often,Often,Moderate,Don't know yet
+Male,21-25 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Least,Often,Often,Often,Iphone
+Female,26-30 yrs,Freelancer,"30,001-40,000 Baht",IOS,Least,Often,Most often,Moderate,Iphone
+Female,21-25 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Least,Most often,Often,Moderate,Iphone
+Male,26-30 yrs,Private_Sector,"30,001-40,000 Baht",IOS,Least,Most often,Often,Often,Iphone
+Female,26-30 yrs,State_Enterprise ,"20,001-30,000 Baht",IOS,Quite little,Most often,Moderate,Often,Iphone
+Female,26-30 yrs,State_Enterprise ,"30,001-40,000 Baht",IOS,Least,Often,Most often,Quite little,Iphone
+Female,31-35 yrs,Private_Sector,"50,001-60,000 Baht",IOS,Least,Most often,Often,Moderate,Don't know yet
+Female,31-35 yrs,Private_Sector,"40,001-50,000 Baht",IOS,Quite little,Often,Often,Moderate,Iphone
+Male,26-30 yrs,Private_Sector,"50,001-60,000 Baht",IOS,Often,Most often,Often,Often,Iphone
+Male,26-30 yrs,Gov_Official,"Less than 20,000 Baht",IOS,Often,Often,Moderate,Quite little,Iphone
+Male,26-30 yrs,Private_Sector,"20,001-30,000 Baht",IOS,Least,Most often,Most often,Moderate,Iphone
+Male,31-35 yrs,College_Student,"Less than 20,000 Baht",IOS,Moderate,Moderate,Quite little,Quite little,Nokia
+Female,26-30 yrs,Private_Sector,"30,001-40,000 Baht",Android,Moderate,Most often,Quite little,Often,Google
+Male,31-35 yrs,Private_Sector,"More than 60,000 Baht",IOS,Moderate,Often,Moderate,Moderate,Iphone
+Female,21-25 yrs,College_Student,"Less than 20,000 Baht",Android,Least,Most often,Often,Moderate,Samsung
+Male,26-30 yrs,Private_Sector,"40,001-50,000 Baht",IOS,Quite little,Often,Moderate,Most often,Iphone
+Male,31-35 yrs,Gov_Official,"20,001-30,000 Baht",Android,Moderate,Moderate,Moderate,Quite little,Samsung
